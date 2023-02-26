@@ -1,1 +1,1 @@
-# IBM-sharing-assignment
+# IBM-peerGraded-assignment
