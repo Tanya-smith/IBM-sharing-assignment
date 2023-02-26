@@ -1,1 +1,1 @@
-# IBM-peerGraded-assignment
+# IBM peer graded assignment
